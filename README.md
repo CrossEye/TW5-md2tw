@@ -34,7 +34,7 @@ Usage
 -----
 
 ```shell
-> node  path/to/TW5-md-2tw  path/to/markdown/folder  path/to/output/folder 
+> node  path/to/TW5-md2tw  path/to/markdown/folder  path/to/output/folder 
 ```
 
 This will create a single-file TiddlyWiki `index.html` in
